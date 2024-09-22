@@ -1,0 +1,14 @@
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\bin\Debug\net8.0\StringEncoderDecoder.exe
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\bin\Debug\net8.0\StringEncoderDecoder.deps.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\bin\Debug\net8.0\StringEncoderDecoder.runtimeconfig.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\bin\Debug\net8.0\StringEncoderDecoder.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\bin\Debug\net8.0\StringEncoderDecoder.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\obj\Debug\net8.0\StringEncoderDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\obj\Debug\net8.0\StringEncoderDecoder.AssemblyInfoInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\obj\Debug\net8.0\StringEncoderDecoder.AssemblyInfo.cs
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\obj\Debug\net8.0\StringEncoderDecoder.csproj.CoreCompileInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\obj\Debug\net8.0\StringEncoderDecoder.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\obj\Debug\net8.0\refint\StringEncoderDecoder.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\obj\Debug\net8.0\StringEncoderDecoder.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\obj\Debug\net8.0\StringEncoderDecoder.genruntimeconfig.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\StringEncoderDecoder\obj\Debug\net8.0\ref\StringEncoderDecoder.dll

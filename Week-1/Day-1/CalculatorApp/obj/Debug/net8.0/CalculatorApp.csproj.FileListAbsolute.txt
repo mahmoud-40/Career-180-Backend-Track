@@ -1,0 +1,14 @@
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-1\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
