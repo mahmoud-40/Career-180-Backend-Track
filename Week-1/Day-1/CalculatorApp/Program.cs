@@ -4,74 +4,90 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the expression: ");
-
-            string expression = Console.ReadLine();
-
-            string[] parts = expression.Split(' ');
-
-            if (parts.Length != 3)
+            while (true)
             {
-                Console.WriteLine("Invalid expression");
-                return;
+                System.Console.WriteLine("Here are the options: ");
+                System.Console.WriteLine("1. Addition.");
+                System.Console.WriteLine("2. Subtraction.");
+                System.Console.WriteLine("3. Multiplication.");
+                System.Console.WriteLine("4. Division.");
+                System.Console.WriteLine("5. Modulus.");
+                System.Console.WriteLine("6. Exit.");
+
+                int choice = ReadChoice();
+
+                if (choice == 6)
+                {
+                    System.Console.WriteLine("Exiting the application.");
+                    break;
+                }
+
+                (int a, int b) = ReadNumbers();
+
+                int result = 0;
+
+                switch (choice)
+                {
+                    case 1:
+                        result = Add(a, b);
+                        break;
+                    case 2:
+                        result = Subtract(a, b);
+                        break;
+                    case 3:
+                        result = Multiply(a, b);
+                        break;
+                    case 4:
+                        if(b == 0)                         {
+                            System.Console.WriteLine("Cannot divide by zero.");
+                            Console.WriteLine();
+                            continue;
+                        }
+                        result = Divide(a, b);
+                        break;
+                    case 5:
+                        result = Modulus(a, b);
+                        break;
+                }
+
+                System.Console.WriteLine($"The result is: {result}");
+                System.Console.WriteLine();
             }
+        }
 
-            int a = int.Parse(parts[0]);
-
-            int b = int.Parse(parts[2]);
-
-            string operation = parts[1];
-
-            int result = 0;
-            
-            switch (operation)
+        public static int ReadChoice()
+        {
+            int choice;
+            do
             {
-                case "+":
-                    result = Add(a, b);
-                    break;
-                case "-":
-                    result = Subtract(a, b);
-                    break;
-                case "*":
-                    result = Multiply(a, b);
-                    break;
-                case "/":
-                    result = Divide(a, b);
-                    break;
-                case "%":
-                    result = Modulus(a, b);
-                    break;
-                default:
-                    Console.WriteLine("Invalid operation");
-                    break;
-            }
+                System.Console.Write("Enter your choice: ");
+                choice = int.Parse(System.Console.ReadLine());
 
-            Console.WriteLine($"Result: {result}");
+                if (choice < 1 || choice > 6)
+                {
+                    System.Console.WriteLine("Invalid choice. Please try again.");
+                }
+
+            } while (choice < 1 || choice > 6);
+
+            return choice;
         }
 
-        public static int Add(int a, int b)
+        public static (int, int) ReadNumbers()
         {
-            return a + b;
+            System.Console.Write("Enter the first number: ");
+            int a = int.Parse(System.Console.ReadLine());
+
+            System.Console.Write("Enter the second number: ");
+            int b = int.Parse(System.Console.ReadLine());
+
+            return (a, b);
         }
 
-        public static int Subtract(int a, int b)
-        {
-            return a - b;
-        }
-
-        public static int Multiply(int a, int b)
-        {
-            return a * b;
-        }
-
-        public static int Divide(int a, int b)
-        {
-            return a / b;
-        }
-
-        public static int Modulus(int a, int b)
-        {
-            return a % b;
-        }
+        public static int Add(int a, int b) => a + b;
+        public static int Subtract(int a, int b) => a - b;
+        public static int Multiply(int a, int b) => a * b;
+        public static int Divide(int a, int b) => a / b;
+        public static int Modulus(int a, int b) => a % b;
     }
 }
