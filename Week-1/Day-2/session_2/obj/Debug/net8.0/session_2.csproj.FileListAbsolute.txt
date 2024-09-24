@@ -1,0 +1,15 @@
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\bin\Debug\net8.0\session_2.exe
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\bin\Debug\net8.0\session_2.deps.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\bin\Debug\net8.0\session_2.runtimeconfig.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\bin\Debug\net8.0\session_2.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\bin\Debug\net8.0\session_2.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\obj\Debug\net8.0\session_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\obj\Debug\net8.0\session_2.AssemblyInfoInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\obj\Debug\net8.0\session_2.AssemblyInfo.cs
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\obj\Debug\net8.0\session_2.csproj.CoreCompileInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\obj\Debug\net8.0\session_2.sourcelink.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\obj\Debug\net8.0\session_2.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\obj\Debug\net8.0\refint\session_2.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\obj\Debug\net8.0\session_2.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\obj\Debug\net8.0\session_2.genruntimeconfig.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-2\session_2\obj\Debug\net8.0\ref\session_2.dll
