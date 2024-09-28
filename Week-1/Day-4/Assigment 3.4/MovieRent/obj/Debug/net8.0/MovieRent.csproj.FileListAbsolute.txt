@@ -1,0 +1,15 @@
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\bin\Debug\net8.0\MovieRent.exe
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\bin\Debug\net8.0\MovieRent.deps.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\bin\Debug\net8.0\MovieRent.runtimeconfig.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\bin\Debug\net8.0\MovieRent.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\bin\Debug\net8.0\MovieRent.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\obj\Debug\net8.0\MovieRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\obj\Debug\net8.0\MovieRent.AssemblyInfoInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\obj\Debug\net8.0\MovieRent.AssemblyInfo.cs
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\obj\Debug\net8.0\MovieRent.csproj.CoreCompileInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\obj\Debug\net8.0\MovieRent.sourcelink.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\obj\Debug\net8.0\MovieRent.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\obj\Debug\net8.0\refint\MovieRent.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\obj\Debug\net8.0\MovieRent.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\obj\Debug\net8.0\MovieRent.genruntimeconfig.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-1\Day-4\Assigment 3.4\MovieRent\obj\Debug\net8.0\ref\MovieRent.dll
