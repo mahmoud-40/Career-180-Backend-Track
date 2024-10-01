@@ -1,0 +1,16 @@
+                                            Assignment 6
+                                            -------------
+
+You have a maintenance center that receives customer devices and records them in the repair log.
+Then it determines the technician who repairs the device and records the spare parts required for the device that the technician requested from the stores.
+
+This system Data he want to working with:
+• Device data is (unique number - item name - item type - year of manufacture - country of manufacture)
+• Customer data is (unique number - customer name - phone number - address)
+• Technician data is (unique number - technician name - phone number - address - salary)
+• Spare parts data is (unique part number - part price - country of manufacture)
+
+Note that:
+• Each customer can own more than one device
+• Each technician can repair more than one device and each device can be repaired by more than one technician
+• More than one part can be installed to repair the device, but the part cannot be installed in more than one device
