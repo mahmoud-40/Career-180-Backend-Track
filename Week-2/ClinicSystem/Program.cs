@@ -1,4 +1,14 @@
-﻿namespace ClinicSystem
+﻿/*
+ Doctor's Account:
+    username: doc
+    password: doc
+
+ Assistant's Account:
+    username: mahmoud
+    password: 2004
+ */
+
+namespace ClinicSystem
 {
     class Program
     {
