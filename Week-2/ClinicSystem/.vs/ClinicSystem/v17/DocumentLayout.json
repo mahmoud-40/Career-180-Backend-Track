@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-2\\clinicsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-2\\clinicsystem\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-2\\clinicsystem\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|solutionrelative:appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-2\\clinicsystem\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-2\\clinicsystem\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|solutionrelative:assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-2\\clinicsystem\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-2\\clinicsystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D38E30-C666-4275-85B2-D70FE3A02502}|ClinicSystem.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\DB.cs",
+              "RelativeDocumentMoniker": "DB.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\DB.cs",
+              "RelativeToolTip": "DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:12:50.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Appointment.cs",
+              "RelativeDocumentMoniker": "Appointment.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Appointment.cs",
+              "RelativeToolTip": "Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:12:37.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:11:52.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Assistant.cs",
+              "RelativeDocumentMoniker": "Assistant.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Assistant.cs",
+              "RelativeToolTip": "Assistant.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwG4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:12:10.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Doctor.cs",
+              "RelativeDocumentMoniker": "Doctor.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Doctor.cs",
+              "RelativeToolTip": "Doctor.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADwvzsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:11:35.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:11:15.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-2\\ClinicSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAswEMBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:54:29.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

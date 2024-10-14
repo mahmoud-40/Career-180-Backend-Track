@@ -1,0 +1,15 @@
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\obj\Debug\net8.0\ClinicSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\obj\Debug\net8.0\ClinicSystem.AssemblyInfoInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\obj\Debug\net8.0\ClinicSystem.AssemblyInfo.cs
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\obj\Debug\net8.0\ClinicSystem.csproj.CoreCompileInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\obj\Debug\net8.0\ClinicSystem.sourcelink.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\bin\Debug\net8.0\ClinicSystem.exe
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\bin\Debug\net8.0\ClinicSystem.deps.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\bin\Debug\net8.0\ClinicSystem.runtimeconfig.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\bin\Debug\net8.0\ClinicSystem.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\bin\Debug\net8.0\ClinicSystem.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\obj\Debug\net8.0\ClinicSystem.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\obj\Debug\net8.0\refint\ClinicSystem.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\obj\Debug\net8.0\ClinicSystem.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\obj\Debug\net8.0\ClinicSystem.genruntimeconfig.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-2\ClinicSystem\obj\Debug\net8.0\ref\ClinicSystem.dll
