@@ -37,46 +37,42 @@
                 employees[i] = emp;
             }
 
-            SortEmployees(employees);
+            //  var sorted = employees.OrderBy(emp => emp.Date); // returns a new IEnumerable<Employee> sorted by Date but does not change the original array
+
+            Array.Sort(employees, (emp1, emp2) => emp1.Date.CompareTo(emp2.Date)); // sorts the array itself based on their hire date
 
             foreach (Employee emp in employees)
             {
                 Console.WriteLine(emp.ToString());
             }
-        }
 
-        public static void SortEmployees(Employee[] employees)
-        {
-            for (int i = 0; i < employees.Length; i++)
-            {
-                for (int j = i + 1; j < employees.Length; j++)
-                {
-                    if (employees[i].Date.Year > employees[j].Date.Year)
-                    {
-                        Employee temp = employees[i];
-                        employees[i] = employees[j];
-                        employees[j] = temp;
-                    }
-                    else if (employees[i].Date.Year == employees[j].Date.Year)
-                    {
-                        if (employees[i].Date.Month > employees[j].Date.Month)
-                        {
-                            Employee temp = employees[i];
-                            employees[i] = employees[j];
-                            employees[j] = temp;
-                        }
-                        else if (employees[i].Date.Month == employees[j].Date.Month)
-                        {
-                            if (employees[i].Date.Day > employees[j].Date.Day)
-                            {
-                                Employee temp = employees[i];
-                                employees[i] = employees[j];
-                                employees[j] = temp;
-                            }
-                        }
-                    }
-                }
-            }
+            #region IndexersCheck
+
+            //Employee employee = new Employee { ID = 1, Salary = 4666, Date = new HireDate { Day = 1, Month = 1, Year = 2022 }, Gender = "Male" };
+
+            //Console.WriteLine(employee.ToString());
+
+            //Console.WriteLine(employee[0]); // 1
+
+            //employee[0] = 2;
+
+            //Console.WriteLine(employee[0]); // 2
+
+            //Console.WriteLine(employee.ToString());
+
+            //Console.WriteLine(employee[1]); // 4666
+
+            //employee[1] = 5000;
+
+            //Console.WriteLine(employee[1]); // 5000
+
+            //Console.WriteLine(employee.ToString());
+
+            //Console.WriteLine(employee[2]); // -1
+
+            //Console.WriteLine(employee.ToString());
+
+            #endregion
         }
     }
 }

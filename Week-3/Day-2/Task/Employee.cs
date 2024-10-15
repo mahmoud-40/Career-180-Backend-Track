@@ -98,30 +98,32 @@
             Date = date;
         }
 
+        public Employee() { }
+
         public int this[int index]
         {
             get
             {
-                if (index == 0)
+                if (index == 0) // if index is 0, return ID
                 {
-                    return ID;
+                    return ID; 
                 }
-                else if (index == 1)
+                else if (index == 1) // if index is 1, return Salary
                 {
                     return Salary;
                 }
-                else
+                else // if index is not 0 or 1, return -1
                 {
-                    return 0;
+                    return -1;
                 }
             }
             set
             {
-                if (index == 0)
+                if (index == 0) // if index is 0, set ID
                 {
                     ID = value;
                 }
-                else if (index == 1)
+                else if (index == 1) // if index is 1, set Salary
                 {
                     Salary = value;
                 }
@@ -135,7 +137,7 @@
         }
     }
 
-    internal struct HireDate
+    struct HireDate : IComparable<HireDate>
     {
         public int Day;
         public int Month;
@@ -146,6 +148,15 @@
             Day = day;
             Month = month;
             Year = year;
+        }
+
+        public int CompareTo(HireDate other)
+        {
+            if (Year != other.Year)
+                return Year.CompareTo(other.Year);
+            if (Month != other.Month)
+                return Month.CompareTo(other.Month);
+            return Day.CompareTo(other.Day);
         }
 
         public override string ToString()
