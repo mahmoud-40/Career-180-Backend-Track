@@ -29,12 +29,11 @@ namespace MangeNewsAPI.Controllers
         }
 
         //GetByAuthor
-        
         [HttpGet]
         [Route("author/{author}")]
-        public New GetByAuthor(string author) // url : /api/news/author/Mahmoud
+        public List<New> GetByAuthor(string author) // url : /api/news/author/Mahmoud
         {
-            return news.FirstOrDefault(n => n.Author == author);
+            return news.Where(n => n.Author == author).ToList();
         }
 
         // GetByTitle
