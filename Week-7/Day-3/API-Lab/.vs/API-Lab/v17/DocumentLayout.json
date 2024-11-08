@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-7\\Day-3\\API-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D727D210-76C8-4BE7-93DB-FE02788DEE53}|API-Lab.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-7\\day-3\\api-lab\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D727D210-76C8-4BE7-93DB-FE02788DEE53}|API-Lab.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D727D210-76C8-4BE7-93DB-FE02788DEE53}|API-Lab.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-7\\day-3\\api-lab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D727D210-76C8-4BE7-93DB-FE02788DEE53}|API-Lab.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D727D210-76C8-4BE7-93DB-FE02788DEE53}|API-Lab.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-7\\day-3\\api-lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D727D210-76C8-4BE7-93DB-FE02788DEE53}|API-Lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D727D210-76C8-4BE7-93DB-FE02788DEE53}|API-Lab.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-7\\day-3\\api-lab\\models\\apid3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D727D210-76C8-4BE7-93DB-FE02788DEE53}|API-Lab.csproj|solutionrelative:models\\apid3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-7\\Day-3\\API-Lab\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-7\\Day-3\\API-Lab\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T22:27:56.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-7\\Day-3\\API-Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-7\\Day-3\\API-Lab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA/wAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:27:18.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-7\\Day-3\\API-Lab\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-7\\Day-3\\API-Lab\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:01:26.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APID3Context.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-7\\Day-3\\API-Lab\\Models\\APID3Context.cs",
+              "RelativeDocumentMoniker": "Models\\APID3Context.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-7\\Day-3\\API-Lab\\Models\\APID3Context.cs",
+              "RelativeToolTip": "Models\\APID3Context.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBcAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:58:39.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
