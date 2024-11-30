@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\controllers\\productsuowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:controllers\\productsuowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\dtos\\catalogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:dtos\\catalogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\dtos\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:dtos\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\week-8\\api-d7\\productmangement-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA75397-49AA-40D8-8BBF-0E729359123A}|ProductMangement-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +70,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:58:04.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:57:54.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Models\\Catalog.cs",
+              "RelativeDocumentMoniker": "Models\\Catalog.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Models\\Catalog.cs",
+              "RelativeToolTip": "Models\\Catalog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:57:53.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:57:48.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Models\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Models\\StoreContext.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Models\\StoreContext.cs",
+              "RelativeToolTip": "Models\\StoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:57:37.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:47:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -46,41 +156,70 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-14T12:37:10.002Z"
+              "WhenOpened": "2024-11-14T12:37:10.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "productsUOWController.cs",
               "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Controllers\\productsUOWController.cs",
               "RelativeDocumentMoniker": "Controllers\\productsUOWController.cs",
               "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Controllers\\productsUOWController.cs",
               "RelativeToolTip": "Controllers\\productsUOWController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwFkAAABFAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T18:50:51.733Z"
+              "WhenOpened": "2024-11-11T18:50:51.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\UnitOfWorks\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "UnitOfWorks\\UnitOfWork.cs",
-              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\UnitOfWorks\\UnitOfWork.cs",
-              "RelativeToolTip": "UnitOfWorks\\UnitOfWork.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAADwvyMAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "CatalogDTO.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\DTOs\\CatalogDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CatalogDTO.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\DTOs\\CatalogDTO.cs",
+              "RelativeToolTip": "DTOs\\CatalogDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T18:47:18.743Z"
+              "WhenOpened": "2024-11-24T12:57:48.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "AddProductDTO.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\DTOs\\AddProductDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\AddProductDTO.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\DTOs\\AddProductDTO.cs",
+              "RelativeToolTip": "DTOs\\AddProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:57:46.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:57:22.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Week-8\\API-D7\\ProductMangement-API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCIAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T00:10:22.194Z",
               "EditorCaption": ""

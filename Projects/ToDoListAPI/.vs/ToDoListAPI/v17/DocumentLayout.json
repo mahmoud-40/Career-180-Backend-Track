@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Projects\\ToDoListAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7426CC58-3F8C-4504-9FA0-CE91E8F7538F}|ToDoListAPI.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\projects\\todolistapi\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426CC58-3F8C-4504-9FA0-CE91E8F7538F}|ToDoListAPI.csproj|solutionrelative:controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7426CC58-3F8C-4504-9FA0-CE91E8F7538F}|ToDoListAPI.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\projects\\todolistapi\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426CC58-3F8C-4504-9FA0-CE91E8F7538F}|ToDoListAPI.csproj|solutionrelative:controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7426CC58-3F8C-4504-9FA0-CE91E8F7538F}|ToDoListAPI.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\projects\\todolistapi\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426CC58-3F8C-4504-9FA0-CE91E8F7538F}|ToDoListAPI.csproj|solutionrelative:controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7426CC58-3F8C-4504-9FA0-CE91E8F7538F}|ToDoListAPI.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\projects\\todolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426CC58-3F8C-4504-9FA0-CE91E8F7538F}|ToDoListAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7426CC58-3F8C-4504-9FA0-CE91E8F7538F}|ToDoListAPI.csproj|c:\\mahmoud\\cs\\career-180-backend-track\\projects\\todolistapi\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426CC58-3F8C-4504-9FA0-CE91E8F7538F}|ToDoListAPI.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Projects\\ToDoListAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Projects\\ToDoListAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwD0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:23:29.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Projects\\ToDoListAPI\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Projects\\ToDoListAPI\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "Controllers\\StatusController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:45:26.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrudController.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Projects\\ToDoListAPI\\Controllers\\CrudController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CrudController.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Projects\\ToDoListAPI\\Controllers\\CrudController.cs",
+              "RelativeToolTip": "Controllers\\CrudController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:35:22.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Projects\\ToDoListAPI\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Projects\\ToDoListAPI\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "Controllers\\SearchController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:32:00.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Projects\\ToDoListAPI\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "C:\\Mahmoud\\CS\\Career-180-Backend-Track\\Projects\\ToDoListAPI\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:33:28.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
